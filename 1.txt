@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body> 
+<h1>HUS</h1>
+</body>
+</html>
